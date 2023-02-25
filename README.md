@@ -13,7 +13,7 @@ function numbers_1() {
     }
 ```
 
-## Version 1
+## Version 2
 
 Generates 3 random numbers, inlcudes a check to see if the number generated is a duplicate and if it is adds a 1:
 
